@@ -1,0 +1,72 @@
+site_name: Hướng Dẫn Sử Dụng App
+site_description: Tài liệu hướng dẫn chi tiết về cách sử dụng ứng dụng
+site_author: Dodero
+site_url: ""
+
+# Theme configuration
+theme:
+  name: material
+  language: vi
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+# Navigation structure
+nav:
+  - Trang Chủ: index.md
+  - Bắt Đầu:
+    - Giới Thiệu: getting-started/introduction.md
+    - Cài Đặt: getting-started/installation.md
+    - Đăng Ký & Đăng Nhập: getting-started/authentication.md
+  - Hướng Dẫn Sử Dụng:
+    - Tổng Quan Giao Diện: user-guide/interface.md
+    - Các Tính Năng Chính: user-guide/features.md
+    - Cài Đặt Ứng Dụng: user-guide/settings.md
+  - Câu Hỏi Thường Gặp: faq.md
+  - Hỗ Trợ: support.md
+
+# Additional settings
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dodero10
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/dat.130503
+
+plugins:
+  - search:
+      lang: vi
+  - tags
+
+copyright: Copyright &copy; 2024 Dodero10
