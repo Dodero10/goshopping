@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Chào mừng đến với Tài liệu Ứng dụng
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Chào mừng bạn đến với trang tài liệu chính thức của ứng dụng. Tại đây, bạn sẽ tìm thấy mọi thông tin cần thiết về cách sử dụng và tận dụng tối đa các tính năng của ứng dụng.
 
-## Commands
+## Bắt đầu nhanh
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Hướng dẫn bắt đầu](user-guide/getting-started.md)
+- [Tính năng chính](user-guide/features.md)
+- [Cài đặt](user-guide/settings.md)
 
-## Project layout
+## Hỗ trợ
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Nếu bạn cần trợ giúp, vui lòng:
+
+- Xem [Câu hỏi thường gặp](user-guide/faq.md)
+- Kiểm tra [Tài liệu kỹ thuật](technical/troubleshooting.md)
+- [Liên hệ với chúng tôi](support.md)
