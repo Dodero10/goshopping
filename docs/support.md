@@ -3,28 +3,22 @@
 ## Kênh hỗ trợ
 
 ### Email
-support@example.com
+Dat.TC215346@sis.hust.edu.vn
+
+Hung.HD210399@sis.hust.edu.vn
+
+Phuc.NH215452@sis.hust.edu.vn
 
 ### Điện thoại
-- Việt Nam: +84 xxx xxx xxx
+- Việt Nam: +84 941 118 736
 - Giờ làm việc: 9:00 - 18:00 (GMT+7)
-
-### Chat trực tuyến
-Truy cập website của chúng tôi để chat với nhân viên hỗ trợ
 
 ## Mạng xã hội
 
-- Facebook: [Tên Fanpage](https://facebook.com/...)
-- Twitter: [@handle](https://twitter.com/...)
-- LinkedIn: [Công ty](https://linkedin.com/...)
-
-## Cộng đồng
-
-### Diễn đàn
-Tham gia diễn đàn người dùng của chúng tôi
-
-### Blog
-Đọc các bài viết mới nhất trên blog của chúng tôi
+- Facebook: [Trương Công Đạt](https://facebook.com/dat.130503)
+- Twitter: [@No1Dodero](https://x.com/No1Dodero)
+- LinkedIn: [Trương Công Đạt](https://www.linkedin.com/in/truongcongdat/)
 
 ## Góp ý
-Chúng tôi luôn mong muốn nhận được góp ý từ người dùng để cải thiện sản phẩm 
+Chúng tôi luôn mong muốn nhận được góp ý từ người dùng để cải thiện sản phẩm
+Nếu bạn có bất kì góp ý nào, vui lòng liên hệ với chúng tôi qua email hoặc điện thoại.

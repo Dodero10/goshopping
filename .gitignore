@@ -1,1 +1,4 @@
 env_goshopping/
+backend/
+frontend/
+.DS_Store
