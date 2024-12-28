@@ -39,10 +39,25 @@ markdown_extensions:
 nav:
   - Trang chủ: index.md
   - Hướng dẫn sử dụng:
-    - Bắt đầu: user-guide/getting-started.md
-    - Tính năng chính: user-guide/features.md
-    - Cài đặt: user-guide/settings.md
-    - Câu hỏi thường gặp: user-guide/faq.md
+    - Tài khoản:
+      - Đăng nhập: user-guide/account/login.md
+      - Đăng ký: user-guide/account/register.md
+      - Quên mật khẩu: user-guide/account/forgot-password.md
+    - Thông tin cá nhân:
+      - Xem thông tin: user-guide/profile/view.md
+      - Chỉnh sửa thông tin: user-guide/profile/edit.md
+    - Nhóm:
+      - Xem danh sách nhóm: user-guide/group/home.md
+      - Tạo nhóm: user-guide/group/add-group.md
+      - Thêm thành viên: user-guide/group/add-member.md
+    - Thống kê & Thông báo:
+      - Xem thống kê: user-guide/stats/view.md
+      - Thông báo: user-guide/notifications.md
+    - Quản lý thực phẩm:
+      - Công thức nấu ăn: user-guide/food/recipes.md
+      - Nhóm: user-guide/food/groups.md
+      - Tủ lạnh: user-guide/food/fridge.md
+      - Thức ăn: user-guide/food/items.md
   - Tài liệu kỹ thuật:
     - Yêu cầu hệ thống: technical/requirements.md
     - Cài đặt ứng dụng: technical/installation.md
