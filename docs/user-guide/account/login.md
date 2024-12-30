@@ -11,7 +11,7 @@
 - Tìm và nhấn vào biểu tượng Go Shopping trên điện thoại của bạn để mở ứng dụng
 - Nếu bạn chưa đăng nhập, màn hình đăng nhập sẽ hiện ra
 
-![Màn hình đăng nhập](../../assets/images/auth/login.png)
+![Màn hình đăng nhập](../../assets/images/auth/login.png){ width="300" }
 
 *Màn hình đăng nhập của ứng dụng Go Shopping*
 

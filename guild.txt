@@ -1,0 +1,5 @@
+push orgin dodero
+mkdocs build
+mkdocs serve
+
+mkdocs gh-deploy --force

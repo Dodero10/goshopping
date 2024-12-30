@@ -46,18 +46,29 @@ nav:
     - Thông tin cá nhân:
       - Xem thông tin: user-guide/profile/view.md
       - Chỉnh sửa thông tin: user-guide/profile/edit.md
+      - Đổi mật khẩu: user-guide/profile/change-password.md
     - Nhóm:
       - Xem danh sách nhóm: user-guide/group/home.md
       - Tạo nhóm: user-guide/group/add-group.md
       - Thêm thành viên: user-guide/group/add-member.md
     - Thống kê & Thông báo:
       - Xem thống kê: user-guide/stats/view.md
-      - Thông báo: user-guide/notifications.md
+      - Thông báo: user-guide/notification/list_noti.md
     - Quản lý thực phẩm:
-      - Công thức nấu ăn: user-guide/food/recipes.md
-      - Nhóm: user-guide/food/groups.md
-      - Tủ lạnh: user-guide/food/fridge.md
-      - Thức ăn: user-guide/food/items.md
+      - Phân loại thực phẩm: user-guide/food/categories.md
+      - Quản lý công thức nấu ăn: user-guide/recipes/list.md
+      - Quản lý thực phẩm:
+        - Danh sách thực phẩm: user-guide/food/items/list.md
+        - Thêm thực phẩm mới: user-guide/food/items/add.md
+        - Chỉnh sửa thực phẩm: user-guide/food/items/edit.md
+      - Quản lý nhiệm vụ:
+        - Danh sách nhiệm vụ: user-guide/food/tasks/list.md
+        - Giao nhiệm vụ mua đồ mới: user-guide/food/tasks/new-item.md
+        - Giao nhiệm vụ mua đồ cũ: user-guide/food/tasks/restock.md
+      - Quản lý bữa ăn:
+        - Xem kế hoạch: user-guide/food/meal-plan/view.md
+        - Lập kế hoạch: user-guide/food/meal-plan/create.md
+
   - Tài liệu kỹ thuật:
     - Yêu cầu hệ thống: technical/requirements.md
     - Cài đặt ứng dụng: technical/installation.md
